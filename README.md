@@ -13,3 +13,6 @@ A 7 k-track, multi-modal data‐mining pipeline that blends **Spotify audio feat
 > ➜ **12 % error reduction** by adding text features  
 
 ## 📂 Repository structure
+create_data -> Contains the whole data gathering and creation pipeline
+audio_and_lyrics_data -> Contains data preperation and model results for the data that contains audio and lyrics attributes
+only_audio_data -> Contains data preperation and model results for the data that contains only audio attributes
