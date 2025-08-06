@@ -2,7 +2,7 @@
 > **Course project — BİL 476/573 (Data Mining), TOBB ETÜ**  
 > Author: **Ecenur Hacıhasanoğlu**
 
-A 7 k-track, multi-modal data‐mining pipeline that blends **Spotify audio features** with  
+Multi-modal data‐mining pipeline that blends **Spotify audio features** with  
 **Genius lyrics sentiment & topic signals** to predict the Spotify *popularity* score (0–100).
 
 | Model | Features | Test RMSE ↓ | Test R² ↑ |
